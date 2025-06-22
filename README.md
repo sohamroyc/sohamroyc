@@ -82,8 +82,9 @@
 
 <div align="center">
   <a href="https://github.com/sohamroyc/Electricity_Billing_System-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Pocket-Dockter&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Electricity_Billing_System-master&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
+
   <a href="https://github.com/sohamroyc/Aiportfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Aiportfolio&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
