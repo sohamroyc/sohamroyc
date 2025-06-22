@@ -81,7 +81,7 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/sohamroyc/Pocket-Dockter">
+  <a href="https://github.com/sohamroyc/Electricity_Billing_System-master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Pocket-Dockter&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/sohamroyc/Aiportfolio">
